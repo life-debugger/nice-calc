@@ -2,4 +2,14 @@
   .container {
     background-color: lightblue;
   }
+  .monitor{
+    width: 79vw;
+  }
+  .btn{
+    /*flex: 1 0 22%; !* explanation below *!*/
+
+    width: 19vw;
+    height: 19vw;
+    margin: .5vw;
+  }
 }
