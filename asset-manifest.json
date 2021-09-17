@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nice-calc/static/css/main.1e3d535b.chunk.css",
+    "main.js": "/nice-calc/static/js/main.5badf565.chunk.js",
+    "main.js.map": "/nice-calc/static/js/main.5badf565.chunk.js.map",
+    "runtime-main.js": "/nice-calc/static/js/runtime-main.f357534e.js",
+    "runtime-main.js.map": "/nice-calc/static/js/runtime-main.f357534e.js.map",
+    "static/css/2.a1596f27.chunk.css": "/nice-calc/static/css/2.a1596f27.chunk.css",
+    "static/js/2.37e3537c.chunk.js": "/nice-calc/static/js/2.37e3537c.chunk.js",
+    "static/js/2.37e3537c.chunk.js.map": "/nice-calc/static/js/2.37e3537c.chunk.js.map",
+    "static/js/3.9bea75af.chunk.js": "/nice-calc/static/js/3.9bea75af.chunk.js",
+    "static/js/3.9bea75af.chunk.js.map": "/nice-calc/static/js/3.9bea75af.chunk.js.map",
+    "index.html": "/nice-calc/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/nice-calc/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.1e3d535b.chunk.css.map": "/nice-calc/static/css/main.1e3d535b.chunk.css.map",
+    "static/js/2.37e3537c.chunk.js.LICENSE.txt": "/nice-calc/static/js/2.37e3537c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f357534e.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.37e3537c.chunk.js",
+    "static/css/main.1e3d535b.chunk.css",
+    "static/js/main.5badf565.chunk.js"
+  ]
+}
